@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+
+# scrfft is a custom library provided as part of the course module.
+# Place scrfft.py in the same directory as Transport.py before running.
